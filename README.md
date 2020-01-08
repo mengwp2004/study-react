@@ -5,11 +5,17 @@ https://reactjs.org/tutorial/tutorial.html#overview
 
 ## develop
 
+### local
+
 1 运行
 npm start 
 
 2 编译
 npm build
+
+### browser
+
+https://codepen.io/gaearon/pen/oWWQNa?editors=0110
 
 ## new project
 
