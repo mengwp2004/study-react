@@ -21,3 +21,19 @@ https://codepen.io/gaearon/pen/oWWQNa?editors=0110
 
 1 删除src/*
 
+
+
+# react native 
+
+## beginer
+ 
+http://www.reactnativeexpress.com/quick_start
+
+##  navigation
+
+https://reactnavigation.org/docs/en/getting-started.html
+
+
+## expo ,android dev tools
+
+https://expo.io/learn
